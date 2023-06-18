@@ -1,11 +1,11 @@
-About r-momr
-============
+About r-momr-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-momr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=momr
 
 Package license: Artistic-2.0 (Restricts use)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-momr-feedstock/blob/main/LICENSE.txt)
 
 Summary: 'MetaOMineR' suite is a set of R packages that offers many functions and modules needed for the analyses  of quantitative metagenomics data. 'momr' is the core package and contains routines for biomarker identification and exploration. Developed since the beginning of field, 'momr' has evolved and is structured around the different modules  such as preprocessing, analysis, vizualisation, etc. See package help for more information.
 
